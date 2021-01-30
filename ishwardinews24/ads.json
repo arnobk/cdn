@@ -1,0 +1,23 @@
+{
+    "banners": [
+        {
+            "url": "assets/banner1.jpg"
+        },
+        {
+            "url": "assets/banner2.jpg"
+        },
+        {
+            "url": "assets/banner3.jpg"
+        }
+    ],
+    "content":[
+        {
+            "url": "assets/banner1.jpg"
+        }
+    ],
+    "list":[
+        {
+            "url": "assets/banner1.jpg"
+        }
+    ]
+}
