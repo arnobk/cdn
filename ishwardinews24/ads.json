@@ -1,23 +1,26 @@
 {
     "banners": [
         {
-            "url": "assets/banner1.jpg"
+            "image": "assets/banner1.jpg",
+            "url":"https://arnob.me"
         },
         {
-            "url": "assets/banner2.jpg"
+            "image": "assets/banner2.jpg",
+            "url":"https://ishwardinews24.net"
         },
         {
-            "url": "assets/banner3.jpg"
+            "image": "assets/banner3.jpg",
+            "url":"https://reactanc.xyz"
         }
     ],
-    "content":[
+    "square":[
         {
-            "url": "assets/banner1.jpg"
-        }
-    ],
-    "list":[
+            "image": "assets/grid1.jpg",
+            "url":"https://arnob.me"
+        },
         {
-            "url": "assets/banner1.jpg"
+            "image": "assets/grid2.jpg",
+            "url":"https://reactanc.xyz"
         }
     ]
 }
