@@ -2,25 +2,13 @@
     "banners": [
         {
             "image": "assets/banner1.jpg",
-            "url":"https://arnob.me"
-        },
-        {
-            "image": "assets/banner2.jpg",
-            "url":"https://ishwardinews24.net"
-        },
-        {
-            "image": "assets/banner3.jpg",
-            "url":"https://reactanc.xyz"
+            "url":"tel:+8801712105178"
         }
     ],
     "square":[
         {
             "image": "assets/grid1.jpg",
-            "url":"https://arnob.me"
-        },
-        {
-            "image": "assets/grid2.jpg",
-            "url":"https://reactanc.xyz"
+            "url":"tel:+8801712105178"
         }
     ]
 }
