@@ -1,88 +1,88 @@
 #EXTM3U
 
-#EXTINF:1,Zee Bangla HD
+#EXTINF:1 group-title="Entertainment",Zee Bangla HD
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6636/index.m3u8
 
-#EXTINF:-1 ,Star Jalsha HD
+#EXTINF:-1 group-title="Entertainment",Star Jalsha HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225777&extension=ts&play_token=UKg7PHsC06
 
-#EXTINF:-1 ,Desh TV
+#EXTINF:-1 group-title="Entertainment",Desh TV
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 
-#EXTINF:-1 ,Colors Bangla HD
+#EXTINF:-1 group-title="Entertainment",Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
-#EXTINF:-1 ,Channel 24
+#EXTINF:-1 group-title="Entertainment",Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 ,DBC News
+#EXTINF:-1 group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 ,ATN Bangla
+#EXTINF:-1 group-title="Entertainment",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 ,Banglavision
+#EXTINF:-1 group-title="Entertainment",Banglavision
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 ,Independent TV
+#EXTINF:-1 group-title="News",Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 ,RTV
+#EXTINF:-1 group-title="Entertainment",RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1 ,Channel i
+#EXTINF:-1 group-title="Entertainment",Channel i
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 ,Jamuna TV
+#EXTINF:-1 group-title="News",Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 ,T Sports
+#EXTINF:-1 group-title="Sports",T Sports
 https://live.tsports.com/live/live_01_720/index.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony-AlvesOtt",Sony AATH
+#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony AATH
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony-AlvesOtt",SET HD
+#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Sony-AlvesOtt",Sony YAY
+#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Sony-AlvesOtt",Sony MAX HD
+#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Entertainment",Sony MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony-AlvesOtt",Sony MAX
+#EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Entertainment"",Sony MAX
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony-AlvesOtt",BBC Earth HD
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 1
+#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 2
+#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony TEN 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 3
+#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports",Sony TEN 3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 4
+#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports",Sony TEN 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 5
+#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports",Sony TEN 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 1 HD
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony  TEN 2 HD
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony  TEN 2 HD
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 3 HD
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony TEN 3 HD
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 4 HD
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony-AlvesOtt",Sony TEN 5 HD
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
